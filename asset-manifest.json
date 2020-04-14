@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/covid-19/static/css/main.504f33b0.chunk.css",
-    "main.js": "/covid-19/static/js/main.6df93ff0.chunk.js",
-    "main.js.map": "/covid-19/static/js/main.6df93ff0.chunk.js.map",
-    "runtime-main.js": "/covid-19/static/js/runtime-main.4c992bde.js",
-    "runtime-main.js.map": "/covid-19/static/js/runtime-main.4c992bde.js.map",
-    "static/js/2.5818559a.chunk.js": "/covid-19/static/js/2.5818559a.chunk.js",
-    "static/js/2.5818559a.chunk.js.map": "/covid-19/static/js/2.5818559a.chunk.js.map",
-    "index.html": "/covid-19/index.html",
-    "precache-manifest.f818ff41b458b88f21e7c313e319e3dc.js": "/covid-19/precache-manifest.f818ff41b458b88f21e7c313e319e3dc.js",
-    "service-worker.js": "/covid-19/service-worker.js",
-    "static/css/main.504f33b0.chunk.css.map": "/covid-19/static/css/main.504f33b0.chunk.css.map",
-    "static/js/2.5818559a.chunk.js.LICENSE.txt": "/covid-19/static/js/2.5818559a.chunk.js.LICENSE.txt"
+    "main.css": "/covid-19-tracker-react/static/css/main.504f33b0.chunk.css",
+    "main.js": "/covid-19-tracker-react/static/js/main.6df93ff0.chunk.js",
+    "main.js.map": "/covid-19-tracker-react/static/js/main.6df93ff0.chunk.js.map",
+    "runtime-main.js": "/covid-19-tracker-react/static/js/runtime-main.3e866a71.js",
+    "runtime-main.js.map": "/covid-19-tracker-react/static/js/runtime-main.3e866a71.js.map",
+    "static/js/2.5818559a.chunk.js": "/covid-19-tracker-react/static/js/2.5818559a.chunk.js",
+    "static/js/2.5818559a.chunk.js.map": "/covid-19-tracker-react/static/js/2.5818559a.chunk.js.map",
+    "index.html": "/covid-19-tracker-react/index.html",
+    "precache-manifest.965a0a71864415a6829f9bb7908618d0.js": "/covid-19-tracker-react/precache-manifest.965a0a71864415a6829f9bb7908618d0.js",
+    "service-worker.js": "/covid-19-tracker-react/service-worker.js",
+    "static/css/main.504f33b0.chunk.css.map": "/covid-19-tracker-react/static/css/main.504f33b0.chunk.css.map",
+    "static/js/2.5818559a.chunk.js.LICENSE.txt": "/covid-19-tracker-react/static/js/2.5818559a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4c992bde.js",
+    "static/js/runtime-main.3e866a71.js",
     "static/js/2.5818559a.chunk.js",
     "static/css/main.504f33b0.chunk.css",
     "static/js/main.6df93ff0.chunk.js"
